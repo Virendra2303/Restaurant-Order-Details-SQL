@@ -5,6 +5,8 @@
 
 [SQL Analysis (Code)](https://github.com/Virendra2303/Restaurant-Order-Details-SQL/blob/main/Restaurants_Sales_SQL_Analysis.sql)
 
+[Sales Dashboard - Power BI](https://github.com/Virendra2303/Restaurant-Order-Details-SQL/blob/main/Restaurants%20Sale%20Dashboard(Power%20BI).pbix)
+
 
 ## Questions I Wanted To Answer From the Dataset:
 
