@@ -122,5 +122,5 @@ Result:
 
 ![Q8](https://i.imgur.com/6xFmmhU.png)
 
-##Conclusion
+## Conclusion
 if you are a restaurant owner who is planning to open a delivery store, I suggest you should target to do North Indian, Chinese, or French cuisine type delivery store and rent a place in Zone D area. 
