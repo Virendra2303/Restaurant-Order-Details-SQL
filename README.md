@@ -7,6 +7,7 @@
 
 [Sales Dashboard - Power BI](https://github.com/Virendra2303/Restaurant-Order-Details-SQL/blob/main/Restaurants%20Sale%20Dashboard(Power%20BI).pbix)
 
+**Objective:** To provide data insights to future restaurant owners who are planning to open a food delivery store but has no ideas on below business decisions such as: which cuisine types should they do, which zones to choose for their kitchen site to get the most sales, which is the most effective time period of a day to do marketing.
 
 ## Questions I Wanted To Answer From the Dataset:
 
@@ -120,3 +121,5 @@ ORDER BY avg_delivery_time
 Result:
 
 ![Q8](https://i.imgur.com/6xFmmhU.png)
+
+**Conclusion:**  if you are a restaurant owner who is planning to open a delivery store, I suggest you should target to do North Indian, Chinese, or French cuisine type delivery store and rent a place in Zone D area. 
