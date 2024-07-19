@@ -9,6 +9,10 @@
 
 **Objective:** To provide data insights to future restaurant owners who are planning to open a food delivery store but has no ideas on below business decisions such as: which cuisine types should they do, which zones to choose for their kitchen site to get the most sales, which is the most effective time period of a day to do marketing.
 
+## Overview
+
+![0](https://i.imgur.com/WEZZrs5.png)
+
 ## Questions I Wanted To Answer From the Dataset:
 
 ## 1. Total Number Of User Using This App?
